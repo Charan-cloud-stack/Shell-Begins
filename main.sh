@@ -1,1 +1,14 @@
-hello shell
+##Git
+This is commit 1
+
+
+
+
+
+
+
+
+
+
+
+
